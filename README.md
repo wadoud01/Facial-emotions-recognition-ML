@@ -7,14 +7,15 @@ This project focuses on recognizing facial emotions (Angry, Happy, Neutral, Surp
   link for the code: https://colab.research.google.com/drive/1MK6233t68IpmljrVmoBePAcc2wuICrXJ?usp=sharing
 
 - **Support Vector Machine (SVM)**
-  
+
   Link for the code: https://colab.research.google.com/drive/1vm3IX2QgQlndiUO5SQJPuELCzOlLrtZl?usp=sharing
   
 - **Convolutional Neural Networks (CNN)**
-
   Link for the code: https://colab.research.google.com/drive/1uC5aVR2lOBBA2WHe6aMrI4OSKK4qAYd1?usp=sharing
 
 The dataset consists of 48x48 RGB images and one-hot encoded labels. We perform comprehensive analysis and comparison of the three models, including their strengths, limitations, and generalization abilities.
+
+<img src="ML2/System.png" alt=" boh" width="300"/>
 
 ---
 
