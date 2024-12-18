@@ -15,7 +15,7 @@ This project focuses on recognizing facial emotions (Angry, Happy, Neutral, Surp
 
 The dataset consists of 48x48 RGB images and one-hot encoded labels. We perform comprehensive analysis and comparison of the three models, including their strengths, limitations, and generalization abilities.
 
-<img src="ML2/System.png" alt=" boh" width="300"/>
+<img src="ML2/System.png" alt=" boh" width="600"/>
 
 ---
 
