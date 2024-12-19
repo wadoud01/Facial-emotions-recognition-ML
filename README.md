@@ -188,7 +188,6 @@ This project highlights the strengths and limitations of Random Forest, SVM, and
 
 ## Author  
 **Wadoud Guelmami**  
-*Machine Learning and AI Enthusiast*  
 
 ---
 
